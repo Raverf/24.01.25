@@ -1,0 +1,30 @@
+*   {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 10px 20px;
+}
+body {
+    font-family: "Comic Sans MS", cursive;
+    background: grey;
+    color: yellow;
+}
+.meny{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100px;
+    background-color: yellow;
+    margin-block-end: 40px;
+    padding: 10px 20px;
+    color: black;
+
+}
+.menu-ul{
+ display: flex;
+list-style: none;
+
+
+
+
+}
